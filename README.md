@@ -1,4 +1,4 @@
-# README: Hackathon-Winning Solution Powered by AutoGluon
+Hackathon-Winning Solution Powered by AutoGluon
 
 Welcome to the repository for the **winning solution** of Hi!Paris Season 5! 🏆 This project demonstrates the power of **AutoGluon**, a state-of-the-art automated machine learning (AutoML) framework, to deliver exceptional results with minimal effort. The solution did not require hyperparameter optimization, as AutoGluon achieves remarkable performance even with its **default settings**.
 
