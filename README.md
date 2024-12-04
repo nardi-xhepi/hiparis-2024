@@ -23,7 +23,7 @@ By automatically training diverse models (e.g., decision trees, gradient boostin
 3. **Robust Handling of Real-World Data**: Handles missing values, categorical variables, and imbalanced datasets seamlessly.
 4. **Resource-Aware**: Adjusts to available computational resources for optimal efficiency.
 
-### **Why We Chose AutoGluon**
+### **Why AutoGluon**
 AutoGluon’s simplicity and effectiveness made it the perfect choice for this hackathon. We leveraged its default settings, relying entirely on its:
 - Predefined ensemble methods.
 - Automatic preprocessing capabilities.
