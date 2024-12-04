@@ -47,6 +47,6 @@ AutoGluon, even without hyperparameter optimization, delivered superior results 
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE). Please adhere to the dataset's terms of use if sharing or modifying the data.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
